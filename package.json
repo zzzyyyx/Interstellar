@@ -8,6 +8,7 @@
   },
   "scripts": {
     "start": "node index.js",
+    "build": "echo 'No build step required for this server project'",
     "format": "pnpm biome format --write .",
     "precommit": "pnpm run format && pnpm biome check --write .",
     "lint": "biome lint --write ."
