@@ -26,9 +26,8 @@
   {
     "name": "Sky Riders",
     "link": "https://silvergames.com/en/sky-riders/",
-    "image": "/assets/media/icons/custom.webp",
+    "image": "/assets/media/icons/amazon-luna.webp",
     "categories": ["all"],
-    "blank": "true"
   },
   {
     "name": "Amazon Luna",
